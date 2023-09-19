@@ -1,0 +1,12 @@
+{"id":0,"linguistic_phenomenon":"coreference","category":"pronoun_resolution_(XWinograd)","text":"Steve mengikuti teladan Fred dalam segala hal. Dia sangat mengaguminya.","label":"Steve"}
+{"id":1,"linguistic_phenomenon":"coreference","category":"pronoun_resolution_(XWinograd)","text":"Steve mengikuti teladan Fred dalam segala hal. Dia sangat mempengaruhinya.","label":"Fred"}
+{"id":2,"linguistic_phenomenon":"coreference","category":"pronoun_resolution_(XWinograd)","text":"Jane mengetuk pintu Susan tapi dia tidak menjawab.","label":"Susan"}
+{"id":3,"linguistic_phenomenon":"coreference","category":"pronoun_resolution_(XWinograd)","text":"Jane mengetuk pintu Susan tapi dia tidak mendapatkan jawaban.","label":"Jane"}
+{"id":4,"linguistic_phenomenon":"coreference","category":"pronoun_resolution_(XWinograd)","text":"Jane memberikan Joan permen karena dia lapar.","label":"Joan"}
+{"id":5,"linguistic_phenomenon":"coreference","category":"pronoun_resolution_(XWinograd)","text":"Jane memberikan Joan permen karena dia tidak lapar.","label":"Jane"}
+{"id":6,"linguistic_phenomenon":"coreference","category":"pronoun_resolution_(XWinograd)","text":"Mary menusuk Jennifer, jadi John membawa dia ke rumah sakit.","label":"Jennifer"}
+{"id":7,"linguistic_phenomenon":"coreference","category":"pronoun_resolution_(XWinograd)","text":"Mary menusuk Jennifer, jadi John melaporkan dia ke polisi.","label":"Mary"}
+{"id":8,"linguistic_phenomenon":"coreference","category":"pronoun_resolution_(XWinograd)","text":"James meminta bantuan Robert, tetapi dia menolak.","label":"Robert"}
+{"id":9,"linguistic_phenomenon":"coreference","category":"pronoun_resolution_(XWinograd)","text":"James meminta bantuan Robert, tetapi dia ditolak.","label":"James"}
+{"id":10,"linguistic_phenomenon":"coreference","category":"pronoun_resolution_(XWinograd)","text":"Seorang jurnalis mewawancarai bintang dari film baru tersebut. Dia sangat gigih, sehingga wawancaranya berlangsung lama.","label":"Jurnalis"}
+{"id":11,"linguistic_phenomenon":"coreference","category":"pronoun_resolution_(XWinograd)","text":"Seorang jurnalis mewawancarai bintang dari film baru tersebut. Dia sangat kooperatif, sehingga wawancaranya berlangsung lama.","label":"Bintang dari film baru"}
