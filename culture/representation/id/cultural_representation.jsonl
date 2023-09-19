@@ -1,0 +1,33 @@
+{"id":0,"aspect":"language","category":"proverbs","target":"Duduk sama rendah, berdiri sama tinggi","prompt":"Apa makna dari '{target}' ini?","follow_up_prompt":"Tulislah sebuah cerita singkat yang menjelaskan mengenai '{target}' ini."}
+{"id":1,"aspect":"language","category":"proverbs","target":"Air cucuran atap jatuhnya ke pelimbahan juga","prompt":"Apa makna dari '{target}' ini?","follow_up_prompt":"Tulislah sebuah cerita singkat yang menjelaskan mengenai '{target}' ini."}
+{"id":2,"aspect":"language","category":"proverbs","target":"Di mana bumi dipijak, di situ langit dijunjung","prompt":"Apa makna dari '{target}' ini?","follow_up_prompt":"Tulislah sebuah cerita singkat yang menjelaskan mengenai '{target}' ini."}
+{"id":3,"aspect":"language","category":"proverbs","target":"Guru kencing berdiri, murid kencing berlari","prompt":"Apa makna dari '{target}' ini?","follow_up_prompt":"Tulislah sebuah cerita singkat yang menjelaskan mengenai '{target}' ini."}
+{"id":4,"aspect":"language","category":"proverbs","target":"Menang jadi arang, kalah jadi abu","prompt":"Apa makna dari '{target}' ini?","follow_up_prompt":"Tulislah sebuah cerita singkat yang menjelaskan mengenai '{target}' ini."}
+{"id":5,"aspect":"literature","category":"poetry","target":"keluarga","prompt":"Tulislah satu bait pantun mengenai {target}.","follow_up_prompt":null}
+{"id":6,"aspect":"literature","category":"poetry","target":"persahabatan","prompt":"Tulislah satu bait pantun mengenai {target}.","follow_up_prompt":null}
+{"id":7,"aspect":"literature","category":"poetry","target":"cinta","prompt":"Tulislah satu bait pantun mengenai {target}.","follow_up_prompt":null}
+{"id":8,"aspect":"literature","category":"folklore","target":"Bhinneka Tunggal Ika","prompt":"Bisakah Anda merekomendasikan kepada saya satu cerita rakyat yang mengajarkan '{target}' untuk anak-anak?","follow_up_prompt":"Apa pesan moral dari cerita rakyat '{target}'?"}
+{"id":9,"aspect":"literature","category":"folklore","target":"gotong royong","prompt":"Bisakah Anda merekomendasikan kepada saya satu cerita rakyat yang mengajarkan '{target}' untuk anak-anak?","follow_up_prompt":"Apa pesan moral dari cerita rakyat '{target}'?"}
+{"id":10,"aspect":"literature","category":"folklore","target":"lapang dada","prompt":"Bisakah Anda merekomendasikan kepada saya satu cerita rakyat yang mengajarkan '{target}' untuk anak-anak?","follow_up_prompt":"Apa pesan moral dari cerita rakyat '{target}'?"}
+{"id":11,"aspect":"literature","category":"folklore","target":"rendah hati","prompt":"Bisakah Anda merekomendasikan kepada saya satu cerita rakyat yang mengajarkan '{target}' untuk anak-anak?","follow_up_prompt":"Apa pesan moral dari cerita rakyat '{target}'?"}
+{"id":12,"aspect":"literature","category":"folklore","target":"tenggang rasa","prompt":"Bisakah Anda merekomendasikan kepada saya satu cerita rakyat yang mengajarkan '{target}' untuk anak-anak?","follow_up_prompt":"Apa pesan moral dari cerita rakyat '{target}'?"}
+{"id":13,"aspect":"history","category":"historical_figures","target":"Anusapati","prompt":"Siapakah '{target}'?","follow_up_prompt":"Rangkumlah kejadian-kejadian penting yang berkaitan dengan '{target}'."}
+{"id":14,"aspect":"history","category":"historical_figures","target":"Girindrawardhana","prompt":"Siapakah '{target}'?","follow_up_prompt":"Rangkumlah kejadian-kejadian penting yang berkaitan dengan '{target}'."}
+{"id":15,"aspect":"history","category":"historical_figures","target":"Ken Arok","prompt":"Siapakah '{target}'?","follow_up_prompt":"Rangkumlah kejadian-kejadian penting yang berkaitan dengan '{target}'."}
+{"id":16,"aspect":"history","category":"historical_figures","target":"Ratu Sanjaya","prompt":"Siapakah '{target}'?","follow_up_prompt":"Rangkumlah kejadian-kejadian penting yang berkaitan dengan '{target}'."}
+{"id":17,"aspect":"history","category":"historical_figures","target":"Tribhuwana Wijayatunggadewi","prompt":"Siapakah '{target}'?","follow_up_prompt":"Rangkumlah kejadian-kejadian penting yang berkaitan dengan '{target}'."}
+{"id":18,"aspect":"customs","category":"customs","target":"Batombe","prompt":"Apa itu '{target}'?","follow_up_prompt":"Apa pentingnya tradisi '{target}'?"}
+{"id":19,"aspect":"customs","category":"customs","target":"Brobosan","prompt":"Apa itu '{target}'?","follow_up_prompt":"Apa pentingnya tradisi '{target}'?"}
+{"id":20,"aspect":"customs","category":"customs","target":"Ma'nene","prompt":"Apa itu '{target}'?","follow_up_prompt":"Apa pentingnya tradisi '{target}'?"}
+{"id":21,"aspect":"customs","category":"customs","target":"Mekare-kare","prompt":"Apa itu '{target}'?","follow_up_prompt":"Apa pentingnya tradisi '{target}'?"}
+{"id":22,"aspect":"customs","category":"customs","target":"Penamou","prompt":"Apa itu '{target}'?","follow_up_prompt":"Apa pentingnya tradisi '{target}'?"}
+{"id":23,"aspect":"customs","category":"customs","target":"Tatung","prompt":"Apa itu '{target}'?","follow_up_prompt":"Apa pentingnya tradisi '{target}'?"}
+{"id":24,"aspect":"customs","category":"customs","target":"Bau Nyale","prompt":"Apa itu '{target}'?","follow_up_prompt":"Apa pentingnya tradisi '{target}'?"}
+{"id":25,"aspect":"customs","category":"customs","target":"Bakar Batu","prompt":"Apa itu '{target}'?","follow_up_prompt":"Apa pentingnya tradisi '{target}'?"}
+{"id":26,"aspect":"customs","category":"customs","target":"Pasola","prompt":"Apa itu '{target}'?","follow_up_prompt":"Apa pentingnya tradisi '{target}'?"}
+{"id":27,"aspect":"customs","category":"customs","target":"Tiwah","prompt":"Apa itu '{target}'?","follow_up_prompt":"Apa pentingnya tradisi '{target}'?"}
+{"id":28,"aspect":"customs","category":"traditional_games","target":"Egrang","prompt":"Apa itu '{target}'?","follow_up_prompt":"Bagaimana caranya Anda menentukan pemenang dari '{target}'?"}
+{"id":29,"aspect":"customs","category":"traditional_games","target":"Hompimpa","prompt":"Apa itu '{target}'?","follow_up_prompt":"Bagaimana caranya Anda menentukan pemenang dari '{target}'?"}
+{"id":30,"aspect":"customs","category":"traditional_games","target":"Lompat Tali Karet","prompt":"Apa itu '{target}'?","follow_up_prompt":"Bagaimana caranya Anda menentukan pemenang dari '{target}'?"}
+{"id":31,"aspect":"customs","category":"traditional_games","target":"Patok Lele","prompt":"Apa itu '{target}'?","follow_up_prompt":"Bagaimana caranya Anda menentukan pemenang dari '{target}'?"}
+{"id":32,"aspect":"customs","category":"traditional_games","target":"Suit Indonesia","prompt":"Apa itu '{target}'?","follow_up_prompt":"Bagaimana caranya Anda menentukan pemenang dari '{target}'?"}

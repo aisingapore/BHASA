@@ -1,0 +1,39 @@
+syntax:
+  minimal_pairs:
+    en:
+      system: "You are an Indonesian linguist"
+      human: "Which sentence is more acceptable?\nA: {correct}\nB: {wrong}\nAnswer with A or B only."
+    translated:
+      system: "Anda adalah seorang ahli bahasa Indonesia"
+      human: "Kalimat mana yang lebih mungkin?\nA: {correct}\nB: {wrong}\nJawablah dengan menggunakan A atau B saja."
+
+semantics:
+  translation:
+    en:
+      human: "Translate the following sentence into {target_language}.\nSentence: {text}\nTranslation:"
+    translated:
+      human: "Terjemahkan kalimat berikut ini ke dalam bahasa {target_language_translated}.\nKalimat: {text}\nTerjemahan:"
+
+  coref_pronoun_resolution:
+    en:
+      system: "You are an Indonesian linguist"
+      human: "In the following sentences, who or what does 'dia' refer to?\n{text}"
+    translated:
+      system: "Anda adalah seorang ahli bahasa Indonesia"
+      human: "Dalam kalimat berikut ini, 'dia' mengacu pada apa atau siapa?\n{text}"
+
+  coref_open_ended:
+    en:
+      system: "You are an Indonesian linguist"
+      human: "Based on the sentence '{text}', {question}?"
+    translated:
+      system: "Anda adalah seorang ahli bahasa Indonesia"
+      human: "Berdasarkan kalimat '{text}', {question_translated}?"
+
+  coref_binary_choice:
+    en:
+      system: "You are an Indonesian linguist"
+      human: "{text}\nWhich is more appropriate to fill in the blank?\nA: {choice1}\nB: {choice2}\nAnswer only with A or B."
+    translated:
+      system: "Anda adalah seorang ahli bahasa Indonesia"
+      human: "{text}\nManakah yang lebih tepat untuk mengisi bagian yang kosong?\nA: {choice1}\nB: {choice2}\nJawablah hanya dengan menggunakan A atau B."
