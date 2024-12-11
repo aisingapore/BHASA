@@ -5,8 +5,8 @@
 This is the repository for the paper [BHASA: A Holistic Southeast Asian Linguistic and Cultural Evaluation Suite for Large Language Models](https://arxiv.org/abs/2309.06085). This is a work in progress and more materials will be added over time.
 
 The repository currently contains:
-- Indonesian LINDSEA linguistic diagnostic dataset
-- Indonesian cultural representation dataset
+- Indonesian & Tamil LINDSEA linguistic diagnostic dataset
+- Indonesian & Tamil cultural representation dataset
 
 ## Folder Structure
 
@@ -17,14 +17,20 @@ The repository currently contains:
 ├── culture
 │   └── representation
 │       ├── README.md
-│       └── id            # Data for Indonesian cultural representation
+│       ├── id            # Data for Indonesian cultural representation
+│       └── ta            # Data for Tamil cultural representation
 └── lindsea
     ├── README.md
-    └── id
-        ├── pragmatics    # Data for Indonesian pragmatic reasoning (scalar implicatures/presuppositions)
-        ├── prompts.yaml  # Prompts (English & Translated) for LINDSEA (Indonesian)
-        ├── semantics     # Data for Indonesian semantic tests (coreference/translation)
-        └── syntax        # Data for Indonesian syntactic tests (minimal pairs)
+    ├── id
+    │   ├── pragmatics    # Data for Indonesian pragmatic reasoning (scalar implicatures/presuppositions)
+    │   ├── prompts.yaml  # Prompts (English & Translated) for LINDSEA (Indonesian)
+    │   ├── semantics     # Data for Indonesian semantic tests (coreference/translation)
+    │   └── syntax        # Data for Indonesian syntactic tests (minimal pairs)
+    └── ta
+        ├── pragmatics    # Data for Tamil pragmatic reasoning (scalar implicatures/presuppositions)
+        ├── prompts.yaml  # Prompts (English & Translated) for LINDSEA (Tamil)
+        ├── semantics     # Data for Tamil semantic tests (coreference/translation)
+        └── syntax        # Data for Tamil syntactic tests (minimal pairs)
 ```
 
 

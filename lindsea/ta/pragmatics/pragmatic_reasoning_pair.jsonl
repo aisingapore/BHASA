@@ -1,0 +1,84 @@
+{"id":0,"linguistic_phenomenon":"scalar_implicatures","category":"some_but_not_all","text":"ரவி கடையில் சில பாத்திரங்களை வாங்கினான்","conclusion":"ராதா கடையில் இன்னும் பாத்திரங்களை வாங்க முடியும்","label":true}
+{"id":1,"linguistic_phenomenon":"scalar_implicatures","category":"some_but_not_all","text":"ரவி கடையில் எல்லா பாத்திரங்களையும் வாங்கினான்","conclusion":"ராதா கடையில் எந்த பாத்திரங்களையும் வாங்க முடியாது","label":true}
+{"id":2,"linguistic_phenomenon":"scalar_implicatures","category":"some_but_not_all","text":"ராதா சில லட்டுக்களை சந்தையில் விற்றாள்","conclusion":"ராதாவிடமிருந்து ரவி இன்னும் லட்டுக்கள் வாங்க முடியும்","label":true}
+{"id":3,"linguistic_phenomenon":"scalar_implicatures","category":"some_but_not_all","text":"ராதா எல்லா லட்டுக்களையும் சந்தையில் விற்றாள்","conclusion":"ராதாவிடமிருந்து ரவி இன்னும் லட்டுக்கள் வாங்க முடியாது","label":true}
+{"id":4,"linguistic_phenomenon":"scalar_implicatures","category":"some_but_not_all","text":"ரவி சில மேசைகளை சுத்தம் செய்தான்","conclusion":"ரவிக்கு இன்னும் சுத்தம் செய்ய மேசைகள் உள்ளன","label":true}
+{"id":5,"linguistic_phenomenon":"scalar_implicatures","category":"some_but_not_all","text":"ரவி எல்லா மேசைகளையும் சுத்தம் செய்தான்","conclusion":"ரவிக்கு இன்னும் சுத்தம் செய்ய மேசைகள் இல்லை","label":true}
+{"id":6,"linguistic_phenomenon":"scalar_implicatures","category":"some_but_not_all","text":"ரவி கடையில் சில பாத்திரங்களை வாங்கினான்","conclusion":"ராதா கடையில் இன்னும் பாத்திரங்களை வாங்க முடியாது","label":false}
+{"id":7,"linguistic_phenomenon":"scalar_implicatures","category":"some_but_not_all","text":"ரவி கடையில் எல்லா பாத்திரங்களையும் வாங்கினான்","conclusion":"ராதா கடையில் இன்னும் பாத்திரங்கள் வாங்க முடியும்","label":false}
+{"id":8,"linguistic_phenomenon":"scalar_implicatures","category":"some_but_not_all","text":"ராதா சில லட்டுக்களை சந்தையில் விற்றாள்","conclusion":"ராதாவிடமிருந்து ரவி இன்னும் லட்டுக்கள் வாங்க முடியாது","label":false}
+{"id":9,"linguistic_phenomenon":"scalar_implicatures","category":"some_but_not_all","text":"ராதா எல்லா லட்டுக்களையும் சந்தையில் விற்றாள்","conclusion":"ராதாவிடமிருந்து ரவி இன்னும் லட்டுக்கள் வாங்க முடியும்","label":false}
+{"id":10,"linguistic_phenomenon":"scalar_implicatures","category":"some_but_not_all","text":"ரவி சில மேசைகளை சுத்தம் செய்தான்","conclusion":"ரவிக்கு இன்னும் சுத்தம் செய்ய மேசைகள் இல்லை","label":false}
+{"id":11,"linguistic_phenomenon":"scalar_implicatures","category":"some_but_not_all","text":"ரவி எல்லா மேசைகளையும் சுத்தம் செய்தான்","conclusion":"ரவிக்கு இன்னும் சுத்தம் செய்ய மேசைகள் உள்ளன","label":false}
+{"id":12,"linguistic_phenomenon":"scalar_implicatures","category":"all","text":"உணவகத்தில் சில வாடிக்கையாளர்கள் காபி குடிக்கின்றனர்","conclusion":"உணவகத்தில் சில வாடிக்கையாளர்கள் காபி குடிக்கவில்லை","label":true}
+{"id":13,"linguistic_phenomenon":"scalar_implicatures","category":"all","text":"உணவகத்தில் எல்லா வாடிக்கையாளர்களும் காபி குடிக்கின்றனர்","conclusion":"உணவகத்தில் காபி குடிக்காத வாடிக்கையாளர்களே இல்லை","label":true}
+{"id":14,"linguistic_phenomenon":"scalar_implicatures","category":"all","text":"பள்ளியில் சில சிறுவர்கள் சீருடை அணிந்துள்ளனர்","conclusion":"பள்ளியில் சீருடை அணியாத சிறுவர்கள் சிலர் உள்ளனர்","label":true}
+{"id":15,"linguistic_phenomenon":"scalar_implicatures","category":"all","text":"பள்ளியில் உள்ள அனைத்து சிறுவர்களும் சீருடை அணிந்துள்ளனர்","conclusion":"பள்ளியில் சீருடை அணியாத சிறுவர்களே இல்லை","label":true}
+{"id":16,"linguistic_phenomenon":"scalar_implicatures","category":"all","text":"சுற்றுவட்டாரத்தில் உள்ள சில நாய்கள் குரைக்கின்றன","conclusion":"சுற்றுவட்டாரத்தில் சில நாய்கள் குரைக்கவில்லை","label":true}
+{"id":17,"linguistic_phenomenon":"scalar_implicatures","category":"all","text":"சுற்றுவட்டாரத்தில் உள்ள எல்லா நாய்களும் குரைக்கின்றன","conclusion":"சுற்றுவட்டாரத்தில் குரைக்காத நாய்களே இல்லை","label":true}
+{"id":18,"linguistic_phenomenon":"scalar_implicatures","category":"all","text":"உணவகத்தில் சில வாடிக்கையாளர்கள் காபி குடிக்கின்றனர்","conclusion":"உணவகத்தில் காபி குடிக்காத வாடிக்கையாளர்களே இல்லை","label":false}
+{"id":19,"linguistic_phenomenon":"scalar_implicatures","category":"all","text":"உணவகத்தில் எல்லா வாடிக்கையாளர்களும் காபி குடிக்கின்றனர்","conclusion":"உணவகத்தில் சில வாடிக்கையாளர்கள் காபி குடிக்கவில்லை","label":false}
+{"id":20,"linguistic_phenomenon":"scalar_implicatures","category":"all","text":"பள்ளியில் சில சிறுவர்கள் சீருடை அணிந்துள்ளனர்","conclusion":"பள்ளியில் சீருடை அணியாத சிறுவர்களே இல்லை","label":false}
+{"id":21,"linguistic_phenomenon":"scalar_implicatures","category":"all","text":"பள்ளியில் உள்ள அனைத்து சிறுவர்களும் சீருடை அணிந்துள்ளனர்","conclusion":"பள்ளியில் சீருடை அணியாத சிறுவர்கள் சிலர் உள்ளனர்","label":false}
+{"id":22,"linguistic_phenomenon":"scalar_implicatures","category":"all","text":"சுற்றுவட்டாரத்தில் உள்ள சில நாய்கள் குரைக்கின்றன","conclusion":"சுற்றுவட்டாரத்தில் குரைக்காத நாய்களே இல்லை","label":false}
+{"id":23,"linguistic_phenomenon":"scalar_implicatures","category":"all","text":"சுற்றுவட்டாரத்தில் உள்ள எல்லா நாய்களும் குரைக்கின்றன","conclusion":"சுற்றுவட்டாரத்தில் சில நாய்கள் குரைக்கவில்லை","label":false}
+{"id":24,"linguistic_phenomenon":"presuppositions","category":"change-of-state_verbs","text":"பூனை தப்பித்தது","conclusion":"இதற்கு முன்பு பூனை சிறைபிடிக்கப்படவில்லை","label":false}
+{"id":25,"linguistic_phenomenon":"presuppositions","category":"change-of-state_verbs","text":"பூனை தப்பித்தது","conclusion":"இதற்கு முன்பு பூனை சிறைபிடிக்கப்பட்டது","label":true}
+{"id":26,"linguistic_phenomenon":"presuppositions","category":"change-of-state_verbs","text":"மாங்காய் பழுத்தது","conclusion":"மாங்காய் இதற்கு முன்பு பழுத்து இருக்கவில்லை","label":true}
+{"id":27,"linguistic_phenomenon":"presuppositions","category":"change-of-state_verbs","text":"மாங்காய் பழுத்தது","conclusion":"மாங்காய் இதற்கு முன்பு பழுத்து இருந்தது","label":false}
+{"id":28,"linguistic_phenomenon":"presuppositions","category":"change-of-state_verbs","text":"ஆப்பிள் அழுகியது","conclusion":"ஆப்பிள் இதற்கு முன்பு அழுகி இருக்கவில்லை","label":true}
+{"id":29,"linguistic_phenomenon":"presuppositions","category":"change-of-state_verbs","text":"ஆப்பிள் அழுகியது","conclusion":"ஆப்பிள் இதற்கு முன்பு அழுகி இருந்தது","label":false}
+{"id":30,"linguistic_phenomenon":"presuppositions","category":"change-of-state_verbs","text":"குரங்கு தூங்கியது","conclusion":"குரங்கு இதற்கு முன்பு விழித்திருக்கவில்லை","label":false}
+{"id":31,"linguistic_phenomenon":"presuppositions","category":"change-of-state_verbs","text":"குரங்கு தூங்கியது","conclusion":"குரங்கு இதற்கு முன்பு விழித்திருந்தது","label":true}
+{"id":32,"linguistic_phenomenon":"presuppositions","category":"change-of-state_verbs","text":"ரவி தனது பணப்பையைக் கண்டுபிடித்தான்","conclusion":"ரவிக்கு இதற்கு முன்பு தனது பணப்பை எங்கே என்று தெரியவில்லை","label":true}
+{"id":33,"linguistic_phenomenon":"presuppositions","category":"change-of-state_verbs","text":"ரவி தனது பணப்பையைக் கண்டுபிடித்தான்","conclusion":"ரவிக்கு இதற்கு முன்பு தனது பணப்பை எங்கே என்று தெரியும்","label":false}
+{"id":34,"linguistic_phenomenon":"presuppositions","category":"change-of-state_verbs","text":"ராதா கண்ணாடியை உடைத்தாள்","conclusion":"கண்ணாடி முன்பு உடைந்தது","label":false}
+{"id":35,"linguistic_phenomenon":"presuppositions","category":"change-of-state_verbs","text":"ராதா கண்ணாடியை உடைத்தாள்","conclusion":"கண்ணாடி முன்பு உடைக்கப்படவில்லை","label":true}
+{"id":36,"linguistic_phenomenon":"presuppositions","category":"change-of-state_verbs","text":"ரம்யா நிகழ்ச்சியிலிருந்து வெளியேறினாள்","conclusion":"ரம்யா இதற்கு முன்பு  நிகழ்ச்சியில் இருந்தாள்","label":true}
+{"id":37,"linguistic_phenomenon":"presuppositions","category":"change-of-state_verbs","text":"ரம்யா நிகழ்ச்சியிலிருந்து வெளியேறினாள்","conclusion":"ரம்யா இதற்கு முன்பு  நிகழ்ச்சியில் இல்லை","label":false}
+{"id":38,"linguistic_phenomenon":"presuppositions","category":"change-of-state_verbs","text":"ரவி விமான நிலையத்திற்கு வந்தான்","conclusion":"ரவி இதற்கு முன்பு விமான நிலையத்தில் இல்லை","label":true}
+{"id":39,"linguistic_phenomenon":"presuppositions","category":"change-of-state_verbs","text":"ரவி விமான நிலையத்திற்கு வந்தான்","conclusion":"ரவி இதற்கு முன்பு விமான நிலையத்தில் இருந்தான்","label":false}
+{"id":40,"linguistic_phenomenon":"presuppositions","category":"change-of-state_verbs","text":"ராதா குடத்தில் தண்ணீரை நிரப்பினாள்","conclusion":"குடம் இதற்கு முன்பு நிரம்பி இருக்கவில்லை","label":true}
+{"id":41,"linguistic_phenomenon":"presuppositions","category":"change-of-state_verbs","text":"ராதா குடத்தில் தண்ணீரை நிரப்பினாள்","conclusion":"குடம் இதற்கு முன்பு நிரம்பியிருந்தது","label":false}
+{"id":42,"linguistic_phenomenon":"presuppositions","category":"change-of-state_verbs","text":"ரம்யா பெட்டியைக் காலி செய்தாள்","conclusion":"பெட்டி இதற்கு முன்பு காலியாக இல்லை","label":true}
+{"id":43,"linguistic_phenomenon":"presuppositions","category":"change-of-state_verbs","text":"ரம்யா பெட்டியைக் காலி செய்தாள்","conclusion":"பெட்டி இதற்கு முன்பு காலியாக இருந்தது","label":false}
+{"id":44,"linguistic_phenomenon":"presuppositions","category":"clefting","text":"தப்பித்தது பூனை தான்","conclusion":"பூனை மட்டும் தப்பியது","label":true}
+{"id":45,"linguistic_phenomenon":"presuppositions","category":"clefting","text":"தப்பித்தது பூனை தான்","conclusion":"வேறு சில விலங்குகளும் தப்பின","label":false}
+{"id":46,"linguistic_phenomenon":"presuppositions","category":"clefting","text":"பழுத்தது மாங்காய் தான்","conclusion":"மாங்காய் மட்டும் பழுத்தது","label":true}
+{"id":47,"linguistic_phenomenon":"presuppositions","category":"clefting","text":"பழுத்தது மாங்காய் தான்","conclusion":"வேறு சில பழங்களும் பழுத்துள்ளன","label":false}
+{"id":48,"linguistic_phenomenon":"presuppositions","category":"clefting","text":"அழுகியது ஆப்பிள் தான்","conclusion":"ஆப்பிள் மட்டும் அழுகியது","label":true}
+{"id":49,"linguistic_phenomenon":"presuppositions","category":"clefting","text":"அழுகியது ஆப்பிள் தான்","conclusion":"வேறு சில பழங்களும் அழுகின","label":false}
+{"id":50,"linguistic_phenomenon":"presuppositions","category":"clefting","text":"தூங்கியது குரங்கு தான்","conclusion":"குரங்கு மட்டும் தூங்கியது","label":true}
+{"id":51,"linguistic_phenomenon":"presuppositions","category":"clefting","text":"தூங்கியது குரங்கு தான்","conclusion":"வேறு சில விலங்குகளும் தூங்கிவிட்டன","label":false}
+{"id":52,"linguistic_phenomenon":"presuppositions","category":"clefting","text":"ரவி கண்டுபிடித்தது அவனுடைய பணப்பையைத் தான்","conclusion":"ரவி தனது பணப்பையை மட்டும் கண்டுபிடித்தான்","label":true}
+{"id":53,"linguistic_phenomenon":"presuppositions","category":"clefting","text":"ரவி கண்டுபிடித்தது அவனுடைய பணப்பையைத் தான்","conclusion":"ரவி வேறு ஒன்றையும் கண்டுபிடித்தான்","label":false}
+{"id":54,"linguistic_phenomenon":"presuppositions","category":"clefting","text":"ராதா இழந்தது அவளுடைய சாவிகளைத் தான்","conclusion":"ராதா தன் சாவியை மட்டும் இழந்தாள்","label":true}
+{"id":55,"linguistic_phenomenon":"presuppositions","category":"clefting","text":"ராதா இழந்தது அவளுடைய சாவிகளைத் தான்","conclusion":"ராதா வேறொன்றையும் இழந்தாள்","label":false}
+{"id":56,"linguistic_phenomenon":"presuppositions","category":"clefting","text":"நிகழ்ச்சியிலிருந்து வெளியேறியது ரம்யா தான்","conclusion":"நிகழ்ச்சியிலிருந்து ரம்யா மட்டும் வெளியேறினாள்","label":true}
+{"id":57,"linguistic_phenomenon":"presuppositions","category":"clefting","text":"நிகழ்ச்சியிலிருந்து வெளியேறியது ரம்யா தான்","conclusion":"ரம்யாவைத் தவிர வேறு யாரோ நிகழ்ச்சியிலிருந்து வெளியேறினார்","label":false}
+{"id":58,"linguistic_phenomenon":"presuppositions","category":"clefting","text":"விமான நிலையத்திற்கு வந்தவர் ரவி தான்","conclusion":"ரவி மட்டும் விமான நிலையத்திற்கு வந்தான்","label":true}
+{"id":59,"linguistic_phenomenon":"presuppositions","category":"clefting","text":"விமான நிலையத்திற்கு வந்தவர் ரவி தான்","conclusion":"ரவியைத் தவிர வேறு ஒருவரும் விமான நிலையத்திற்கு வந்தார்","label":false}
+{"id":60,"linguistic_phenomenon":"presuppositions","category":"clefting","text":"ராதா நிரப்பியது குடம் தான்","conclusion":"ராதா குடத்தை மட்டும் நிரப்பினாள்","label":true}
+{"id":61,"linguistic_phenomenon":"presuppositions","category":"clefting","text":"ராதா நிரப்பியது குடம் தான்","conclusion":"ராதாவும் வேறு ஒன்றையும் நிரப்பினாள்","label":false}
+{"id":62,"linguistic_phenomenon":"presuppositions","category":"clefting","text":"ரம்யா காலி செய்தது பெட்டி தான்","conclusion":"ரம்யா பெட்டியை மட்டும் காலி செய்தாள்","label":true}
+{"id":63,"linguistic_phenomenon":"presuppositions","category":"clefting","text":"ரம்யா காலி செய்தது பெட்டி தான்","conclusion":"ரம்யா வேறு எதையோ காலி செய்தாள்","label":false}
+{"id":64,"linguistic_phenomenon":"presuppositions","category":"embedded_interrogatives","text":"பூனை எப்படி தப்பித்தது என்பது ரவிக்குத் தெரிய வேண்டும்","conclusion":"பூனை தப்பித்தது","label":true}
+{"id":65,"linguistic_phenomenon":"presuppositions","category":"embedded_interrogatives","text":"பூனை எப்படி தப்பித்தது என்பது ரவிக்குத் தெரிய வேண்டும்","conclusion":"பூனை தப்பிக்கவில்லை","label":false}
+{"id":66,"linguistic_phenomenon":"presuppositions","category":"embedded_interrogatives","text":"மாங்காய் எப்படி பழுத்தது என்பது ரவிக்குத் தெரிய வேண்டும்","conclusion":"மாங்காய் முன்புப் பழுக்கவில்லை","label":true}
+{"id":67,"linguistic_phenomenon":"presuppositions","category":"embedded_interrogatives","text":"மாங்காய் எப்படி பழுத்தது என்பது ரவிக்குத் தெரிய வேண்டும்","conclusion":"மாங்காய் முன்புப் பழுத்திருந்தது","label":false}
+{"id":68,"linguistic_phenomenon":"presuppositions","category":"embedded_interrogatives","text":"ஆப்பிள் எப்படி அழுகியது என்பது ரவிக்குத் தெரிய வேண்டும்","conclusion":"ஆப்பிள் முன்பு அழுகவில்லை","label":true}
+{"id":69,"linguistic_phenomenon":"presuppositions","category":"embedded_interrogatives","text":"ஆப்பிள் எப்படி அழுகியது என்பது ரவிக்குத் தெரிய வேண்டும்","conclusion":"ஆப்பிள் முன்பு அழுகியிருந்தது","label":false}
+{"id":70,"linguistic_phenomenon":"presuppositions","category":"embedded_interrogatives","text":"பனிக்கூழ் எப்போது உருக ஆரம்பித்தது என்பது ரவிக்குத் தெரிய வேண்டும்","conclusion":"பனிக்கூழ் முன்பு உறைந்திருந்தது","label":true}
+{"id":71,"linguistic_phenomenon":"presuppositions","category":"embedded_interrogatives","text":"பனிக்கூழ் எப்போது உருக ஆரம்பித்தது என்பது ரவிக்குத் தெரிய வேண்டும்","conclusion":"பனிக்கூழ் முன்பு உறைந்திருக்கவில்லை","label":false}
+{"id":72,"linguistic_phenomenon":"presuppositions","category":"embedded_interrogatives","text":"ரசம் எப்போது கொதிக்க ஆரம்பித்தது என்பது ரவிக்குத் தெரிய வேண்டும்","conclusion":"ரசம் முன்பு கொதிக்கவில்லை","label":true}
+{"id":73,"linguistic_phenomenon":"presuppositions","category":"embedded_interrogatives","text":"ரசம் எப்போது கொதிக்க ஆரம்பித்தது என்பது ரவிக்குத் தெரிய வேண்டும்","conclusion":"ரசம் முன்பு கொதித்தது","label":false}
+{"id":74,"linguistic_phenomenon":"presuppositions","category":"embedded_interrogatives","text":"ராதா எப்படி கண்ணாடியை உடைத்தாள் என்பது ரவிக்குத் தெரிய வேண்டும்","conclusion":"கண்ணாடி முன்பு உடைந்தது","label":false}
+{"id":75,"linguistic_phenomenon":"presuppositions","category":"embedded_interrogatives","text":"ராதா எப்படி கண்ணாடியை உடைத்தாள் என்பது ரவிக்குத் தெரிய வேண்டும்","conclusion":"கண்ணாடி முன்பு உடைக்கப்படவில்லை","label":true}
+{"id":76,"linguistic_phenomenon":"presuppositions","category":"embedded_interrogatives","text":"ரம்யா ஏன் நிகழ்ச்சியிலிருந்து வெளியேறினாள் என்பது ரவிக்குத் தெரிய வேண்டும்","conclusion":"ரம்யா முன்பு நிகழ்ச்சியில் இருந்தாள்","label":true}
+{"id":77,"linguistic_phenomenon":"presuppositions","category":"embedded_interrogatives","text":"ரம்யா ஏன் நிகழ்ச்சியிலிருந்து வெளியேறினான் என்பது ரவிக்குத் தெரிய வேண்டும்","conclusion":"ரம்யா முன்பு நிகழ்ச்சியில் இல்லை","label":false}
+{"id":78,"linguistic_phenomenon":"presuppositions","category":"embedded_interrogatives","text":"ரவி எப்போது விமான நிலையத்திற்கு வந்தார் என்பதை ராதா தெரிந்துக் கொள்ள விரும்புகிறாள்","conclusion":"ரவி முன்பு விமான நிலையத்தில் இல்லை","label":false}
+{"id":79,"linguistic_phenomenon":"presuppositions","category":"embedded_interrogatives","text":"ரவி எப்போது விமான நிலையத்திற்கு வந்தான் என்பதை ராதா தெரிந்துக் கொள்ள விரும்புகிறாள்","conclusion":"ரவி முன்பு விமான நிலையத்தில் இருந்தான்","label":true}
+{"id":80,"linguistic_phenomenon":"presuppositions","category":"embedded_interrogatives","text":"ராதா ஏன் குடத்தில் தண்ணீரை நிரப்பினாள் என்பது ரவிக்குத் தெரிய வேண்டும்","conclusion":"குடம் முன்பு நிரம்பி இருக்கவில்லை","label":true}
+{"id":81,"linguistic_phenomenon":"presuppositions","category":"embedded_interrogatives","text":"ராதா ஏன் குடத்தில் தண்ணீரை நிரப்பினாள் என்பது ரவிக்குத் தெரிய வேண்டும்","conclusion":"குடம் முன்பு நிரம்பியிருந்தது","label":false}
+{"id":82,"linguistic_phenomenon":"presuppositions","category":"embedded_interrogatives","text":"ரம்யா ஏன் பெட்டியைக் காலி செய்தாள் என்பது ரவிக்குத் தெரிய வேண்டும்","conclusion":"பெட்டி முன்பு காலியாக இல்லை","label":true}
+{"id":83,"linguistic_phenomenon":"presuppositions","category":"embedded_interrogatives","text":"ரம்யா ஏன் பெட்டியைக் காலி செய்தாள் என்பது ரவிக்குத் தெரிய வேண்டும்","conclusion":"பெட்டி முன்பு காலியாக இருந்தது","label":false}
