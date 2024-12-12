@@ -59,7 +59,7 @@
 {"id":58,"linguistic_phenomenon":"presuppositions","category":"clefting","text":"விமான நிலையத்திற்கு வந்தவர் ரவி தான்","conclusion":"ரவி மட்டும் விமான நிலையத்திற்கு வந்தான்","label":true}
 {"id":59,"linguistic_phenomenon":"presuppositions","category":"clefting","text":"விமான நிலையத்திற்கு வந்தவர் ரவி தான்","conclusion":"ரவியைத் தவிர வேறு ஒருவரும் விமான நிலையத்திற்கு வந்தார்","label":false}
 {"id":60,"linguistic_phenomenon":"presuppositions","category":"clefting","text":"ராதா நிரப்பியது குடம் தான்","conclusion":"ராதா குடத்தை மட்டும் நிரப்பினாள்","label":true}
-{"id":61,"linguistic_phenomenon":"presuppositions","category":"clefting","text":"ராதா நிரப்பியது குடம் தான்","conclusion":"ராதாவும் வேறு ஒன்றையும் நிரப்பினாள்","label":false}
+{"id":61,"linguistic_phenomenon":"presuppositions","category":"clefting","text":"ராதா நிரப்பியது குடம் தான்","conclusion":"ராதா வேறு ஒன்றையும் நிரப்பினாள்","label":false}
 {"id":62,"linguistic_phenomenon":"presuppositions","category":"clefting","text":"ரம்யா காலி செய்தது பெட்டி தான்","conclusion":"ரம்யா பெட்டியை மட்டும் காலி செய்தாள்","label":true}
 {"id":63,"linguistic_phenomenon":"presuppositions","category":"clefting","text":"ரம்யா காலி செய்தது பெட்டி தான்","conclusion":"ரம்யா வேறு எதையோ காலி செய்தாள்","label":false}
 {"id":64,"linguistic_phenomenon":"presuppositions","category":"embedded_interrogatives","text":"பூனை எப்படி தப்பித்தது என்பது ரவிக்குத் தெரிய வேண்டும்","conclusion":"பூனை தப்பித்தது","label":true}
