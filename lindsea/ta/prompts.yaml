@@ -1,0 +1,48 @@
+syntax:
+  minimal_pairs:
+    en:
+      system: "You are a Tamil linguist"
+      human: "Which sentence is more acceptable?\nA: {correct}\nB: {wrong}\nAnswer with A or B only."
+    translated:
+      system: "நீங்கள் ஒரு தமிழ் மொழியியல் நிபுணர்"
+      human: "எந்த வாக்கியம் மிகவும் சாத்தியமானது?\nA: {correct}\nB: {wrong}\nA அல்லது B எழுத்தில் மட்டும் பதிலளிக்கவும்."
+
+semantics:
+  translation:
+    en:
+      human: "Translate the following sentence into {target_language}.\nSentence: {text}\nTranslation:"
+    translated:
+      human: "பின்வரும் வாக்கியத்தை {target_language_translated} மொழிக்கு மொழிபெயர்க்கவும்.\nவாக்கியம்: {text}\nமொழிபெயர்ப்பு:"
+
+  coref_open_ended:
+    en:
+      system: "You are a Tamil linguist"
+      human: "Based on the sentence '{text}', {question}?"
+    translated:
+      system: "நீங்கள் ஒரு தமிழ் மொழியியல் நிபுணர்"
+      human: "'{text}' என்னும் வாக்கியத்தில், {question_translated}?"
+
+  coref_binary_choice:
+    en:
+      system: "You are a Tamil linguist"
+      human: "{text}\nWhich is more appropriate to fill in the blank?\nA: {choice1}\nB: {choice2}\nAnswer only with A or B."
+    translated:
+      system: "நீங்கள் ஒரு தமிழ் மொழியியல் நிபுணர்"
+      human: "{text}\nகோடிட்ட இடத்தை நிரப்ப எது மிகவும் பொருத்தமானது?\nA: {choice1}\nB: {choice2}\nA அல்லது B எழுத்தில் மட்டும் பதிலளிக்கவும்."
+
+pragmatics:
+  pragmatic_reasoning_single:
+    en:
+      system: "You are a Tamil linguist"
+      human: "Is the following statement {question}?\nStatement: {text}\nAnswer only with {choices}."
+    translated:
+      system: "நீங்கள் ஒரு தமிழ் மொழியியல் நிபுணர்"
+      human: "பின்வரும் கூற்று {question_translated}?\nகூற்று: {text}\n{choices_translated} என்ற வார்த்தையில் மட்டும் பதிலளிக்கவும்."
+
+  pragmatic_reasoning_pair:
+    en:
+      system: "You are a Tamil linguist"
+      human: "Situation: {text}\nGiven this situation, is the following statement true or false?\nStatement: {conclusion}\nAnswer only with True or False."
+    translated:
+      system: "நீங்கள் ஒரு தமிழ் மொழியியல் நிபுணர்"
+      human: "சூழ்நிலை: {text}\nஇந்த சூழ்நிலையில், பின்வரும் கூற்று உண்மையா அல்லது பொய்யா?\nகூற்று: {conclusion}\nஉண்மை அல்லது பொய் என்ற வார்த்தையில் மட்டும் பதிலளிக்கவும்."

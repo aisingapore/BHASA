@@ -13,4 +13,5 @@ The data is released as a JSONL file and contains the following fields:
 | category         | Category of question (e.g. Proverbs, Historical Figures etc.) |
 | target           | Content of question |
 | prompt           | Prompt template into which the `target` needs to be interpolated |
-| follow_up_prompt | Follow-up question prompt template into which the `target` needs to be interpolated. |
+| follow_up_target | Content of follow-up question |
+| follow_up_prompt | Follow-up question prompt template into which the `follow_up_target` needs to be interpolated. |

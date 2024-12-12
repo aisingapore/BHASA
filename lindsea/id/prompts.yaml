@@ -37,3 +37,20 @@ semantics:
     translated:
       system: "Anda adalah seorang ahli bahasa Indonesia"
       human: "{text}\nManakah yang lebih tepat untuk mengisi bagian yang kosong?\nA: {choice1}\nB: {choice2}\nJawablah hanya dengan menggunakan A atau B."
+
+pragmatics:
+  pragmatic_reasoning_single:
+    en:
+      system: "You are an Indonesian linguist"
+      human: "Is the following statement {question}?\nStatement: {text}\nAnswer only with {choices}."
+    translated:
+      system: "Anda adalah seorang ahli bahasa Indonesia"
+      human: "Apakah pernyataan berikut ini {question_translated}?\nPernyataan: {text}\nJawablah hanya dengan {choices_translated}."
+
+  pragmatic_reasoning_pair:
+    en:
+      system: "You are an Indonesian linguist"
+      human: "Situation: {text}\nGiven this situation, is the following statement true or false?\nStatement: {conclusion}\nAnswer only with True or False."
+    translated:
+      system: "Anda adalah seorang ahli bahasa Indonesia"
+      human: "Situasi: {text}\nBerdasarkan situasi ini, apakah pernyataan berikut ini benar atau salah?\nPernyataan: {conclusion}\nJawablah hanya dengan Benar atau Salah."
